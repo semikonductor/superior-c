@@ -1,4 +1,6 @@
 # superior-c
-easy to understand for fresh men in c progranmming.
-Anyone who are willing to help me or others are welcomed to upload you files here.
+This repository is from a fresh man in xidian university.
+This is my answer to some 2020 xdoj's questions.
+You may contact me if you don't understand.
+I am not a extraordinary programmer ,please forgive my faults.
 
